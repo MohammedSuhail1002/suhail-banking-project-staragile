@@ -17,8 +17,8 @@ import junit.framework.TestCase;
 public class BankingTest extends TestCase{
 	
 	//download chrom driver from https://googlechromelabs.github.io/chrome-for-testing/
-	public String baseUrl = "http://localhost:8080/hello";  
-	String driverPath = "C:\\Users\\krish\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe";  
+	public String baseUrl = "http://localhost:8090/hello";  
+	String driverPath = "C:\\Users\\jrskm\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe";  
 	
 	public WebDriver driver;
 	
